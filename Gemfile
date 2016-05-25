@@ -34,6 +34,7 @@ group :development, :test do
   gem 'coveralls', require: false
   gem 'rails-controller-testing', :git => "https://github.com/rails/rails-controller-testing"
   gem 'rspec-rails', '~> 3.5.0.beta3'
+  gem 'rubocop'
 end
 
 group :development do
