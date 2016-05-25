@@ -1,1 +1,3 @@
+ruby:
+  config_file: .ruby-styleguide.yml
 fail_on_violations: true

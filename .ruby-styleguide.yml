@@ -1,0 +1,17 @@
+Rails:
+  Enabled: true
+Metrics/LineLength:
+  Max: 100
+Documentation:
+  Enabled: false
+ClassAndModuleChildren:
+  Enabled: False
+AllCops:
+  Include:
+    - '**/Rakefile'
+    - '**/config.ru'
+  Exclude:
+    - 'db/**/*'
+    - 'config/**/*'
+    - 'script/**/*'
+    - 'bin/*'
