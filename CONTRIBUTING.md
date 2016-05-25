@@ -12,4 +12,4 @@ We work on the `development` branch, and merge to the `master` branch once we're
 
 ## Code guidelines and stuff
 
-You should adhere to this project's styleguide, available in `.rubocop.yml`, and write tests for every new feature you introduce. You must document all code you write. That's it.
+You should adhere to this project's styleguide (you'll be notified via a message by Hound if you don't) and write tests for every new feature you introduce. You must document all code you write. That's it.
