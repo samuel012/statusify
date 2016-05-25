@@ -9,6 +9,8 @@ Statusify is built on Rails 5 (currently RC1, please update to a release version
 ## Current build statuses
 Master: [![Master Build Status](https://travis-ci.org/statusify/statusify-reloaded.svg?branch=master)](https://travis-ci.org/statusify/statusify-reloaded)
 Development: [![Development Build Status](https://travis-ci.org/statusify/statusify-reloaded.svg?branch=Development)](https://travis-ci.org/statusify/statusify-reloaded)
+Code Climate (Development): [![Code Climate](https://codeclimate.com/github/statusify/statusify-reloaded/badges/gpa.svg)](https://codeclimate.com/github/statusify/statusify-reloaded) [![Issue Count](https://codeclimate.com/github/statusify/statusify-reloaded/badges/issue_count.svg)](https://codeclimate.com/github/statusify/statusify-reloaded)
+
 
 ## LICENSE
 Statusify is copyright (c) [Umang Raghuvanshi](https://umangis.me) and [Statusify contributors](https://github.com/statusify/statusify/graphs/contributors), and is licensed under the MIT license. See the LICENSE for more details.
